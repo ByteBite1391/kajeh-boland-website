@@ -42,7 +42,7 @@ The design language draws inspiration from the world's most prestigious brands: 
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="https://picsum.photos/seed/kajeh-preview/800/500" alt="KAJEH BOLAND Hero Section Preview" width="800" />
+  <img src="./assets/img/6.png" alt="KAJEH BOLAND Hero Section Preview" width="800" />
   <p><sub>Hero section — Elegant, editorial, immersive.</sub></p>
 </div>
 
